@@ -1,0 +1,12 @@
+package travelCalculator
+
+const (
+	BULGARIA_SUMMER = 100.0
+	BULGARIA_WINTER = 150.0
+	GERMANY_SUMMER  = 160.0
+	GERMANY_WINTER  = 200.0
+	POLAND_SUMMER   = 120.0
+	POLAND_WINTER   = 180.0
+	GUIDE_DAY       = 50.0
+	LUXURY          = 0.2
+)
